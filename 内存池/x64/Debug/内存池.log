@@ -1,0 +1,50 @@
+﻿  MemoryPool.cpp
+D:\vsdm\内存池\内存池\MemoryPool.h(73,64): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MemoryPool.cpp”)
+  
+D:\vsdm\内存池\内存池\MemoryPool.h(89,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“MemoryPool.cpp”)
+  
+D:\vsdm\内存池\内存池\MemoryPool.cpp(7,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vsdm\内存池\内存池\MemoryPool.cpp(35,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  UnitTest.cpp
+D:\vsdm\内存池\内存池\MemoryPool.h(73,64): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“UnitTest.cpp”)
+  
+D:\vsdm\内存池\内存池\MemoryPool.h(89,57): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“UnitTest.cpp”)
+  
+D:\vsdm\内存池\内存池\UnitTest.cpp(65,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\vsdm\内存池\内存池\UnitTest.cpp(65,9):
+      请考虑在格式字符串中使用“%zu”
+  
+D:\vsdm\内存池\内存池\UnitTest.cpp(65,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“size_t”
+      D:\vsdm\内存池\内存池\UnitTest.cpp(65,9):
+      请考虑在格式字符串中使用“%zu”
+  
+D:\vsdm\内存池\内存池\UnitTest.cpp(65,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 3 拥有了类型“size_t”
+      D:\vsdm\内存池\内存池\UnitTest.cpp(65,9):
+      请考虑在格式字符串中使用“%zu”
+  
+D:\vsdm\内存池\内存池\UnitTest.cpp(65,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 4 拥有了类型“size_t”
+      D:\vsdm\内存池\内存池\UnitTest.cpp(65,9):
+      请考虑在格式字符串中使用“%zu”
+  
+D:\vsdm\内存池\内存池\UnitTest.cpp(99,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\vsdm\内存池\内存池\UnitTest.cpp(99,9):
+      请考虑在格式字符串中使用“%zu”
+  
+D:\vsdm\内存池\内存池\UnitTest.cpp(99,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“size_t”
+      D:\vsdm\内存池\内存池\UnitTest.cpp(99,9):
+      请考虑在格式字符串中使用“%zu”
+  
+D:\vsdm\内存池\内存池\UnitTest.cpp(99,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 3 拥有了类型“size_t”
+      D:\vsdm\内存池\内存池\UnitTest.cpp(99,9):
+      请考虑在格式字符串中使用“%zu”
+  
+D:\vsdm\内存池\内存池\UnitTest.cpp(99,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 4 拥有了类型“size_t”
+      D:\vsdm\内存池\内存池\UnitTest.cpp(99,9):
+      请考虑在格式字符串中使用“%zu”
+  
+  正在生成代码...
+  内存池.vcxproj -> D:\vsdm\内存池\x64\Debug\内存池.exe
